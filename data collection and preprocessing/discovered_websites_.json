@@ -1,0 +1,238 @@
+[
+  {
+    "link": "https://www.cisa.gov/topics/cyber-threats-and-advisories",
+    "rss": false
+  },
+  {
+    "link": "https://thehackernews.com/",
+    "rss": false
+  },
+  {
+    "link": "https://www.cisa.gov/stopransomware/official-alerts-statements-cisa",
+    "rss": false
+  },
+  {
+    "link": "https://www.dhs.gov/topics/cybersecurity",
+    "rss": false
+  },
+  {
+    "link": "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202311011",
+    "rss": false
+  },
+  {
+    "link": "https://www.fbi.gov/investigate/cyber",
+    "rss": false
+  },
+  {
+    "link": "https://www.hhs.gov/about/news/2024/03/05/hhs-statement-regarding-the-cyberattack-on-change-healthcare.html",
+    "rss": false
+  },
+  {
+    "link": "https://www.cityofflint.com/internal-network-and-internet-outage-causes-disruptions-to-city-of-flint-online-services/",
+    "rss": false
+  },
+  {
+    "link": "https://www.unitedhealthgroup.com/newsroom/2024/2024-04-22-uhg-updates-on-change-healthcare-cyberattack.html",
+    "rss": false
+  },
+  {
+    "link": "https://www.ic3.gov/",
+    "rss": false
+  },
+  {
+    "link": "https://www.whitehouse.gov/wp-content/uploads/2024/05/2024-Report-on-the-Cybersecurity-Posture-of-the-United-States.pdf",
+    "rss": false
+  },
+  {
+    "link": "https://www.ic3.gov/annualreport/reports/2023_ic3report.pdf",
+    "rss": false
+  },
+  {
+    "link": "https://www.ibm.com/reports/data-breach",
+    "rss": false
+  },
+  {
+    "link": "https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents",
+    "rss": false
+  },
+  {
+    "link": "https://www.fbi.gov/contact-us/field-offices/sanfrancisco/news/fbi-releases-internet-crime-report",
+    "rss": false
+  },
+  {
+    "link": "https://www.nu.edu/blog/cybersecurity-statistics/",
+    "rss": false
+  },
+  {
+    "link": "https://www.verizon.com/business/resources/reports/dbir/",
+    "rss": false
+  },
+  {
+    "link": "https://www.fbi.gov/investigate/cyber",
+    "rss": false
+  },
+  {
+    "link": "https://www.crowdstrike.com/en-us/global-threat-report/",
+    "rss": false
+  },
+  {
+    "link": "https://www.bluefin.com/bluefin-news/biggest-data-breaches-year-2024/",
+    "rss": false
+  },
+  {
+    "link": "https://securityintelligence.com/news/national-public-data-breach-publishes-private-data-billions-us-citizens/",
+    "rss": false
+  },
+  {
+    "link": "https://www.itgovernanceusa.com/blog/data-breaches-and-cyber-attacks-in-2024-in-the-usa",
+    "rss": false
+  },
+  {
+    "link": "https://www.cms.gov/newsroom/press-releases/cms-notifies-individuals-potentially-impacted-data-breach",
+    "rss": false
+  },
+  {
+    "link": "https://www.globalts.com/blog/the-five-largest-data-breaches-of-2024-so-far",
+    "rss": false
+  },
+  {
+    "link": "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf",
+    "rss": false
+  },
+  {
+    "link": "https://www.usatoday.com/story/tech/2024/08/17/social-security-hack-national-public-data-confirms/74843810007/",
+    "rss": false
+  },
+  {
+    "link": "https://www.geisinger.org/about-geisinger/news-and-media/news-releases/2024/06/24/18/17/geisinger-provides-notice-of-nuances-data-security-incident",
+    "rss": false
+  },
+  {
+    "link": "https://www.ftc.gov/news-events/news/press-releases/2024/10/ftc-takes-action-against-marriott-starwood-over-multiple-data-breaches",
+    "rss": false
+  },
+  {
+    "link": "https://www.cisa.gov/topics/cyber-threats-and-advisories/nation-state-cyber-actors",
+    "rss": false
+  },
+  {
+    "link": "https://attack.mitre.org/groups/",
+    "rss": false
+  },
+  {
+    "link": "https://www.security.com/threat-intelligence/cicada-apt10-china-ngo-government-attacks",
+    "rss": false
+  },
+  {
+    "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2024-q3-2024/",
+    "rss": false
+  },
+  {
+    "link": "https://www.reddit.com/r/Wazuh/comments/192fs9x/blocking_apt_groups_with_wazuh/",
+    "rss": false
+  },
+  {
+    "link": "https://themittenmac.com/what-does-apt-activity-look-like-on-macos/",
+    "rss": false
+  },
+  {
+    "link": "https://www.reddit.com/r/Malware/comments/1dve3om/american_apt_groups_malware/",
+    "rss": false
+  },
+  {
+    "link": "https://www.trendmicro.com/en_us/research/23/i/examining-the-activities-of-the-turla-group.html",
+    "rss": false
+  },
+  {
+    "link": "https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities",
+    "rss": false
+  },
+  {
+    "link": "https://socprime.com/blog/ioc-sigma-greenbug-apt-group-activities/",
+    "rss": false
+  },
+  {
+    "link": "https://www.reddit.com/r/cybersecurity/comments/10bpr7b/what_are_your_goto_websites_to_read_cybersecurity/",
+    "rss": false
+  },
+  {
+    "link": "https://onlinedegrees.sandiego.edu/top-cyber-security-blogs-websites/",
+    "rss": false
+  },
+  {
+    "link": "https://www.cm-alliance.com/cybersecurity-blog",
+    "rss": false
+  },
+  {
+    "link": "https://www.reddit.com/r/hackthebox/comments/14ivdmb/starting_a_cybersecurity_blog/",
+    "rss": false
+  },
+  {
+    "link": "https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2023/six-of-the-best-cybersecurity-blogs",
+    "rss": false
+  },
+  {
+    "link": "https://www.keepersecurity.com/blog/2023/06/20/the-best-cybersecurity-blogs-and-sites/",
+    "rss": false
+  },
+  {
+    "link": "https://www.rasmussen.edu/degrees/technology/blog/top-cyber-security-blogs/",
+    "rss": false
+  },
+  {
+    "link": "https://heimdalsecurity.com/blog/best-cyber-security-blogs/",
+    "rss": false
+  },
+  {
+    "link": "https://support.google.com/adsense/thread/59475557/i-have-a-cybersecurity-blog-on-blogger?hl=en",
+    "rss": false
+  },
+  {
+    "link": "https://cyberscope.netally.com/blog/types-of-cybersecurity-monitoring-tools",
+    "rss": false
+  },
+  {
+    "link": "https://www.solarwinds.com/security-event-manager/use-cases/network-security-monitoring",
+    "rss": false
+  },
+  {
+    "link": "https://www.csiweb.com/how-we-help/managed-cybersecurity/cybersecurity-monitoring/",
+    "rss": false
+  },
+  {
+    "link": "https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring",
+    "rss": false
+  },
+  {
+    "link": "https://www.oig.dot.gov/sites/default/files/library-items/DOT%20Continuous%20Monitoring%20Tools%20for%20Cybersecurity%20Final%20Report%209-30-24_Redacted_1.pdf",
+    "rss": false
+  },
+  {
+    "link": "https://www.datadoghq.com/",
+    "rss": false
+  },
+  {
+    "link": "https://www.oig.dot.gov/library-item/46429",
+    "rss": false
+  },
+  {
+    "link": "https://newscenter.lbl.gov/2023/02/02/open-source-security-monitoring-platforms/",
+    "rss": false
+  },
+  {
+    "link": "https://www.sentinelone.com/cybersecurity-101/cloud-security/azure-security-monitoring-tools/",
+    "rss": false
+  },
+  {
+    "link": "https://community.ipfire.org/t/blocking-malware-payloads-and-botnet-c2-using-unbound-and-threatfox-database/11045",
+    "rss": false
+  },
+  {
+    "link": "https://community.ipfire.org/t/threatfox-ips-rules/10806",
+    "rss": false
+  },
+  {
+    "link": "https://forum.opnsense.org/index.php?topic=34829.0",
+    "rss": false
+  }
+]
