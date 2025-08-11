@@ -1,8 +1,8 @@
 import requests
 
 # Replace these placeholders with your actual API key and CSE ID
-API_KEY = 'AIzaSyD73gou9IbY2kP25icadsfPT0Wo8UOUzys'
-CSE_ID = 'c4fa112e51c6d4e0f'
+API_KEY = ' '
+CSE_ID = ' '
 
 # Trusted and relevant domains for cybersecurity news
 TRUSTED_DOMAINS = [
