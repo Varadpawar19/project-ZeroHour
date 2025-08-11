@@ -21,7 +21,7 @@ mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTop
     try {
       const kibanaUrl = 'http://localhost:5601'; 
       const dashboardId = req.query.id; 
-      const apiKey = 'SkkyZnVwTUJtYUVRRy1qclNvWWM6S3RpMkdidzJRZGV1STF1Ui16SXdPZw==';
+      const apiKey = ' ';
   
       const response = await axios.get(`${kibanaUrl}/api/saved_objects/dashboard/${dashboardId}`, {
         headers: {
