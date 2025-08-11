@@ -3,7 +3,7 @@ import base64
 import json
 
 # Your VirusTotal API key
-API_KEY = '88d5aece2717697491737c84e1b33fc5da1ba55017c6a307a55ec8db420ff843'
+API_KEY = ' '
 BASE_URL = 'https://www.virustotal.com/api/v3/'
 
 # Function to get a file report using its hash (SHA256, MD5, SHA1)
